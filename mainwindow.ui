@@ -11,7 +11,7 @@
    </rect>
   </property>
   <property name="windowTitle">
-   <string>Simple Terminal</string>
+   <string>Pfeiffer Vacuum COM-Tester</string>
   </property>
   <widget class="QWidget" name="centralWidget">
    <layout class="QVBoxLayout" name="verticalLayout_3">
@@ -344,7 +344,7 @@
     <string>C&amp;lear</string>
    </property>
    <property name="toolTip">
-    <string>Clear data</string>
+    <string>Clear serial port</string>
    </property>
    <property name="shortcut">
     <string>Alt+L</string>
